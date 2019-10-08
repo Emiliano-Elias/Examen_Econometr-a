@@ -1,2 +1,2 @@
-# Examen_Econometr-a
-Examen
+# Examen_Econometria
+El siguiente repositorio es mi exámen de econometría.
